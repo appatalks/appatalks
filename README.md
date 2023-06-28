@@ -1,4 +1,25 @@
-### Hi there 👋
+```markdown
+# Hi there! 👋
+
+Welcome to my GitHub Profile!
+
+## About Me
+
+- 🔭 I’m currently working on ChatGPT-HTML. An OpenAI/PaLM API wrapper I named Eva.
+- 🌱 I’m currently learning all things GitHub!
+- 💬 Ask me about my love for all things Star Trek 🖖
+- 📫 How to reach me: Open an issue in my AppaTalks repo.
+- 😄 Pronouns: He/Him
+- ⚡ Science, Fact and the Pursuit of Knowledge
+
+## Quote of the Day
+
+> "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." - Sun Tzu
+
+Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions.
+
+Happy coding! 🚀
+```
 
 <!--
 **appatalks/appatalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
