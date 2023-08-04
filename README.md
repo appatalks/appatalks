@@ -10,7 +10,7 @@ Welcome to my GitHub Profile!
 - 😄 Pronouns: He/Him
 - ⚡ Science, Fact and the Pursuit of Knowledge
 - 📫 Want to reach out to me? [Create a Secret Gist](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) and send me the URL.
-- 
+  
 ## Quote of the Day
 
 > "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." - Sun Tzu
