@@ -8,7 +8,6 @@ Welcome to my GitHub Profile!
 - 🔭 I’m currently working on ChatGPT-HTML. An OpenAI/PaLM API wrapper I named Eva.
 - 🌱 I’m currently learning all things GitHub!
 - 💬 Ask me about my love for all things Star Trek 🖖
-- 📫 How to reach me: Open an issue in my AppaTalks repo.
 - 😄 Pronouns: He/Him
 - ⚡ Science, Fact and the Pursuit of Knowledge
 
@@ -20,6 +19,8 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 
 Happy coding! 🚀
 ```
+
+- 📫 Want to reach out to me? [Create a Secret Gist](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) and send me the URL.
 
 <!--
 **appatalks/appatalks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
