@@ -5,11 +5,11 @@ Welcome to my GitHub Profile!
 ## About Me
 
 - 🔭 I’m currently working on ChatGPT-HTML. An OpenAI/PaLM API wrapper I named Eva.
-- 🌱 I’m currently learning all things GitHub!
+- 🌱 I’m enjoy learning all things GitHub!
 - 💬 Ask me about my love for all things Star Trek 🖖
 - 😄 Pronouns: He/Him
 - ⚡ Science, Fact and the Pursuit of Knowledge
-- 📫 Want to reach out to me? [Create a Secret Gist](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) and send me the URL.
+- 📫 Want to reach out to me? [Create a New Issue](https://github.com/appatalks/appatalks/issues/new/choose) in my AppaTalk's Repo and 🐧
   
 ## Quote of the Day
 
