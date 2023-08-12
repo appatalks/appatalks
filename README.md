@@ -5,7 +5,7 @@ Welcome to my GitHub Profile!
 ## About Me
 
 - 🔭 I’m currently working on ChatGPT-HTML. An OpenAI/PaLM API wrapper I named Eva.
-- 🌱 I’m enjoy learning all things GitHub!
+- 🌱 I enjoy learning all things GitHub!
 - 💬 Ask me about my love for all things Star Trek 🖖
 - 😄 Pronouns: He/Him
 - ⚡ Science, Fact and the Pursuit of Knowledge
