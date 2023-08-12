@@ -4,8 +4,8 @@ Welcome to my GitHub Profile!
 
 ## About Me
 
-- 🔭 I’m currently working on ChatGPT-HTML. An OpenAI/PaLM API wrapper I named Eva.
-- 🌱 I enjoy learning all things GitHub!
+- 🔭 I’m currently working on [ChatGPT-HTML](https://github.com/appatalks/chatgpt-html). An OpenAI/PaLM API wrapper I named Eva.
+- 🌱 I enjoy learning all things [GitHub](https://skills.github.com/)!
 - 💬 Ask me about my love for all things Star Trek 🖖
 - 😄 Pronouns: He/Him
 - ⚡ Science, Fact and the Pursuit of Knowledge
@@ -13,7 +13,7 @@ Welcome to my GitHub Profile!
   
 ## Quote of the Day
 
-> "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." - Sun Tzu
+> "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." - [Sun Tzu](https://amzn.to/44eNely)
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions.
 
