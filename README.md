@@ -7,7 +7,7 @@ Welcome to my GitHub Profile!
 - 🔭 I’m currently working on [ChatGPT-HTML](https://github.com/appatalks/chatgpt-html). An OpenAI/PaLM API wrapper I named Eva.
 - 🌱 I enjoy learning all things [GitHub](https://skills.github.com/)!
 - 💬 Ask me about my love for all things Star Trek 🖖
-- 😄 Pronouns: He/Him
+- 💙 Pronouns: He/Him
 - ⚡ Science, Fact and the Pursuit of Knowledge
 - 📫 Want to reach out to me? [Create a New Issue](https://github.com/appatalks/appatalks/issues/new/choose) in my AppaTalk's Repo and 🐧
   
