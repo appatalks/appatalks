@@ -20,10 +20,21 @@ Feel free to explore my repositories and projects. Don't hesitate to reach out i
 Happy coding! 🚀
 
 ----
+
 <p align="center">
+<img src="https://github.com/appatalks/appatalks/assets/4163156/14fc673d-1497-44fc-bae8-8f8b988fb50f" width="75">
+<img src="https://github.com/appatalks/appatalks/assets/4163156/144257d2-10a9-4677-9782-92d8c3e81234" width="75">
+<img src="https://github.com/appatalks/appatalks/assets/4163156/2ab2b0f7-b698-4c06-85cc-e78b05c582b3" width="75">
+<img src="https://github.com/appatalks/appatalks/assets/4163156/0c25c622-867c-4646-ac5c-90fb3d0da154" width="75">
+<img src="https://github.com/appatalks/appatalks/assets/4163156/f9ac9934-2933-49c1-bb70-6335915e46a0" width="75">
+<img src="https://github.com/appatalks/appatalks/assets/4163156/03c16068-98bd-4273-b67e-d54721f31bee" width="75">
+
+<br> 
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vim,bash,ansible,aws,gcp,cloudflare,ai,linux,mysql,nginx,redis,androidstudio" />
   </a>
+
 </p>
 
 ----
