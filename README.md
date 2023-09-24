@@ -13,7 +13,7 @@
 
 > "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win." - [Sun Tzu](https://amzn.to/44eNely)
 
-Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions.
+Feel free to explore my repositories and projects. I love the Open Source Community! Don't hesitate to reach out if you have any questions.
 
 Happy coding! 🚀
 
