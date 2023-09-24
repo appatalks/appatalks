@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-Welcome to my GitHub Profile!
+![AppaTalks Profile](https://github.com/appatalks/appatalks/blob/main/profile-header.png)
 
 ## About Me
 
