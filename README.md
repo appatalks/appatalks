@@ -1,4 +1,4 @@
-![AppaTalks Profile](https://github.com/appatalks/appatalks/blob/main/profile-header.png)
+![AppaTalks Profile](https://github.com/appatalks/appatalks/blob/main/profile_header.png)
 
 ## About Me
 
