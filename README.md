@@ -74,6 +74,8 @@ Image credit: <a href="https://svs.gsfc.nasa.gov/13831" target="_blank">NASA’s
 </p>
 
 <p align="center">
+<img src="https://github.com/appatalks/appatalks/assets/4163156/34722c96-f917-463e-bd62-51edb52b3daf" width="70">
+<br>
 <img src="https://github.com/appatalks/appatalks/assets/4163156/0f7e1066-31e9-4591-a15c-52a74cc7a098" width="70">
 <img src="https://github.com/appatalks/appatalks/assets/4163156/26524ffa-7e50-44ee-91db-853ae72697db" width="70">
 <img src="https://github.com/appatalks/appatalks/assets/4163156/073ce59c-d047-41e2-a06e-a2274f4e3ebe" width="70">
