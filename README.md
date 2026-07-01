@@ -55,7 +55,7 @@ github_traveler() {
     }
 
     greet
-    embark_quest "ChatGPT-HTML. An OpenAI/PaLM API wrapper I named Eva."
+    embark_quest "Eva-Agent. A first class agentic agent named Eva."
     showcase_skills
 }
 
