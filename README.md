@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [ChatGPT-HTML](https://github.com/appatalks/chatgpt-html). An OpenAI/PaLM API wrapper I named Eva.
+- 🔭 I’m currently working on [Eva-Agent](https://github.com/appatalks/eva-agent). An agentic agent I named Eva.
 - 🌱 I enjoy learning all things [GitHub](https://skills.github.com/)!
 - 💬 Ask me about my love for all things Star Trek 🖖
 - 💙 Pronouns: He/Him
